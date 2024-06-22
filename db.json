@@ -1,0 +1,32 @@
+{
+  "itens": [
+    {
+      "id": "bc72",
+      "nome": "react"
+    },
+    {
+      "id": "807a",
+      "nome": "vue"
+    },
+    {
+      "id": "460a",
+      "nome": "java"
+    },
+    {
+      "id": "40df",
+      "nome": "c#"
+    },
+    {
+      "id": "1875",
+      "nome": "golang"
+    },
+    {
+      "id": "fa3b",
+      "nome": "poo"
+    },
+    {
+      "id": "1030",
+      "nome": "scrum"
+    }
+  ]
+}
