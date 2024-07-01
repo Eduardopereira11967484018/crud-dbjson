@@ -12,6 +12,7 @@ bash
 Copiar código
 npm install -g @angular/cli
 Instalação
+ng new  nome-projeto--standalone
 Clone este repositório para o seu ambiente local:
 
 bash
